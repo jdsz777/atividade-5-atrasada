@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    background-image:url("http://www.pngmart.com/files/3/League-of-Legends-Logo-PNG-HD.png");
+    background-repeat: no-repeat;
+    background-size: 100%
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman';    
+}
+h2{
+    color: rgb(3, 1, 1);
+    text-align: left;
+    background-color:yellow;
+    border-bottom: 6px solid rgb(253, 253, 253);
+    margin-right: 93%;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+#Rs{
+    text-align: left
+}
